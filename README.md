@@ -3,7 +3,7 @@
 Summary:
 ========
 
-This directory contains the python code for GianoPi robots 1, 2, 3 and 4, written for the Piwars challenges as presented in
+This directory contains the python code for GianoPi robots 1, 2, 3 and 4, written for the Piwars challenges as in
 http://piwars.org/2017-competition/challenges/
 
 The branches were the students build their code are:
